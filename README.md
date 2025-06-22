@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Hasan Shaikh  
 *AI Researcher | Cancer Imaging | Radiomics & Deep Learning | Data Scientist @ Quantitative Imaging Research and Artificial Intelligence Lab (QIRAIL), Christian Medical College (CMC) Vellore*
 
-🔬 I'm passionate about solving real-world healthcare challenges using Artificial Intelligence.  
-My current work focuses on building predictive models and segmentation pipelines in medical imaging — particularly for head and neck cancer — using radiomics, machine learning, and deep learning techniques.
+---
+
+🔬 I'm deeply committed to solving **real-world healthcare challenges** through Artificial Intelligence. My primary focus lies in developing **predictive models** and **automated segmentation pipelines** for medical imaging, especially in **Head and Neck Cancer (HNC)**. I work extensively with **radiomics**, **machine learning**, and **deep learning** to push the boundaries of clinical research.
+
+With a strong belief in the **translational impact** of AI, my goal is to bridge the gap between engineering and clinical practice — ensuring that data-driven solutions reach the patient bedside.
+
+---
+
 
 ---
 
@@ -10,7 +16,7 @@ My current work focuses on building predictive models and segmentation pipelines
 
 <p align="center">
   <img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" alt="Vibe Coding" width="45%">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="45%">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="50%">
 </p>
 
 ---
@@ -19,9 +25,9 @@ My current work focuses on building predictive models and segmentation pipelines
 
 | Project | Description | Repo |
 |--------|-------------|------|
-| **Head & Neck Cancer Risk Prediction Dashboard** | A full-stack dashboard to predict locoregional recurrence using clinical + radiomics features. | [View Repo](https://github.com/hash123shaikh/HNC-Risk-Prediction-Dashboard.git) |
-| **Radiomics-Based ML Pipeline** | Feature selection (LASSO, WOA, PSO) and classifier development for recurrence prediction using CT data. | [Access Code](https://github.com/hash123shaikh/...) |
-| **Auto-Segmentation Toolkit** | Leveraged nnUNet and MedSAM for tumor segmentation in CT scans. | [Check It Out](https://github.com/hash123shaikh/...) |
+| **Head & Neck Cancer Risk Prediction Dashboard** | A full-stack dashboard integrating clinical + radiomics data to predict **locoregional recurrence** in HNC patients. Built with FastAPI (backend), React (frontend), and trained ML models with explainability features. | [View Repo](https://github.com/hash123shaikh/HNC-Risk-Prediction-Dashboard.git) |
+| **Radiomics-Based ML Pipeline** *(Private)* | A robust ML pipeline for recurrence prediction using CT imaging. Implements multiple feature selection techniques (LASSO, WOA, PSO) and classifiers (SVM, LR), with extensive cross-validation and ROC/AUC analysis. | *Private — Access upon request* |
+| **Auto-Segmentation Toolkit** *(Private)* | An AI-based segmentation framework for identifying tumor volumes in CT scans using **nnUNet** and **MedSAM**. Currently used in prospective clinical studies. | *Private — Access upon request* |
 
 ---
 
@@ -52,7 +58,7 @@ My current work focuses on building predictive models and segmentation pipelines
 
 - 📧 **Email**: hasanshaikh3198@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/hasann-shaikh](https://linkedin.com/in/hasann-shaikh)  
-- 🖥️ **Portfolio**: [yourwebsite.com](https://yourwebsite.com) *(optional – update or remove)*
+- 🖥️ **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
