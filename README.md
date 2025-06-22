@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hasan Shaikh  
-*AI Researcher | Cancer Imaging | Radiomics & Deep Learning | Data Scientist @ **Quantitative Imaging Research and Artificial Intelligence Lab (QIRAIL)**, Christian Medical College (CMC) Vellore*
+*AI Researcher in Cancer Imaging | Radiomics & Deep Learning | Data Scientist at the **Quantitative Imaging Research and Artificial Intelligence Lab (QIRAIL)**, Christian Medical College (CMC), Vellore*
 
 ---
 
