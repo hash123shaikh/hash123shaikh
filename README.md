@@ -35,6 +35,6 @@
 ---
 
 ### 🌐 Connect with Me
-- 📫 [Email](hasanshaikh3198@gmail.com)
+- 📫 [Email]: (hasanshaikh3198@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/hasann-shaikh)
-- 🖥️ [Portfolio](https://yourwebsite.com)
+- 🖥️ [Portfolio]: (https://yourwebsite.com)
