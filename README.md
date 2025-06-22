@@ -9,13 +9,13 @@ With a strong belief in the **translational impact** of AI, my goal is to bridge
 
 ---
 
-
 ## 🖥 GitHub Stats
 
 <p align="center">
   <img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" alt="Vibe Coding" width="45%">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="50%">
+  <img src="https://streak-stats.demolab.com?user=hash123shaikh&theme=default" width="50%">
 </p>
+
 
 ---
 
