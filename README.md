@@ -10,22 +10,23 @@ My current work focuses on building predictive models and segmentation pipelines
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="48%">
       <img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" width="100%" alt="Vibe Coding GIF">
     </td>
-    <td>
-      <h2 align="center">Hasan's GitHub Stats</h2>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hash123shaikh&theme=default" alt="GitHub Streak" />
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=hash123shaikh&show_icons=true&theme=default" alt="GitHub Stats" />
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash123shaikh&layout=compact" alt="Top Languages" />
-      </p>
+    <td width="52%" align="center">
+      <h2>GitHub Stats</h2>
+
+      <!-- GitHub Streak -->
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="90%" alt="GitHub Streak" />
+
+      <!-- GitHub Summary -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hash123shaikh&theme=default" width="90%" alt="GitHub Profile Summary" />
+
+      <!-- Total Issues -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hash123shaikh&theme=default" width="90%" alt="Total Issues & Contributions by Time" />
     </td>
   </tr>
 </table>
-
 
 ---
 
