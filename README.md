@@ -31,12 +31,16 @@ My current work focuses on building predictive models and segmentation pipelines
 
 ---
 
-## 🖥 GitHub Stats + Vibe Coding
+## 🖥 GitHub Stats
 
-<img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" width="100%" alt="Vibe Coding" />
+<p align="left">
+  <img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" alt="Vibe Coding" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="45%">
+</p>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="90%" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hash123shaikh&theme=default" width="90%">
+</p>
 
 ---
 
