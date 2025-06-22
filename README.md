@@ -8,6 +8,28 @@ My current work focuses on building predictive models and segmentation pipelines
 
 ---
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/hash123shaikh/hash123shaikh/1_W0ur9D98GGM9HGstpvF1ZA.gif" width="100%" alt="Vibe Coding GIF">
+    </td>
+    <td>
+      <h2 align="center">Hasan's GitHub Stats</h2>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hash123shaikh&theme=default" alt="GitHub Streak" />
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api?username=hash123shaikh&show_icons=true&theme=default" alt="GitHub Stats" />
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash123shaikh&layout=compact" alt="Top Languages" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
 ### 📊 GitHub Stats
 
 ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hash123shaikh&show_icons=true&theme=default)
