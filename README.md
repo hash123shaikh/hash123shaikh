@@ -33,27 +33,22 @@ My current work focuses on building predictive models and segmentation pipelines
 
 ---
 
-### 📊 GitHub Stats + Vibe Coding
+## 🖥 GitHub Stats + Vibe Coding
 
-<table>
-  <tr>
-    <td width="48%">
-      <img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" width="100%" alt="Vibe Coding GIF">
-    </td>
-    <td width="52%" align="center">
-      <h2>Hasan's GitHub Stats</h2>
+<img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" width="100%" alt="Vibe Coding" />
 
-      <!-- GitHub Streak -->
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="90%" alt="GitHub Streak" />
+<br>
 
-      <!-- GitHub Summary -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hash123shaikh&theme=default" width="90%" alt="GitHub Profile Summary" />
+### Hasan's GitHub Stats
 
-      <!-- Total Issues -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hash123shaikh&theme=default" width="90%" alt="Total Issues & Contributions by Time" />
-    </td>
-  </tr>
-</table>
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="90%" alt="GitHub Streak" />
+
+<!-- GitHub Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hash123shaikh&theme=default" width="90%" alt="GitHub Summary" />
+
+<!-- Total Issues & Contributions by Time -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hash123shaikh&theme=default" width="90%" alt="Total Issues & Contributions by Time" />
 
 ---
 
