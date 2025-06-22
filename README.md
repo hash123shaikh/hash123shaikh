@@ -39,7 +39,7 @@ My current work focuses on building predictive models and segmentation pipelines
 
 <br>
 
-### Hasan's GitHub Stats
+### GitHub Stats
 
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="90%" alt="GitHub Streak" />
