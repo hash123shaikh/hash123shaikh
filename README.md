@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Hasan Shaikh  
 *AI Researcher | Cancer Imaging | Radiomics & Deep Learning | Data Scientist @ Quantitative Imaging Research and Artificial Intelligence Lab (QIRAIL), Christian Medical College (CMC) Vellore*
 
----
-
 🔬 I'm passionate about solving real-world healthcare challenges using Artificial Intelligence.  
 My current work focuses on building predictive models and segmentation pipelines in medical imaging — particularly for head and neck cancer — using radiomics, machine learning, and deep learning techniques.
 
@@ -37,18 +35,8 @@ My current work focuses on building predictive models and segmentation pipelines
 
 <img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" width="100%" alt="Vibe Coding" />
 
-<br>
-
-### GitHub Stats
-
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="90%" alt="GitHub Streak" />
-
-<!-- GitHub Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hash123shaikh&theme=default" width="90%" alt="GitHub Summary" />
-
-<!-- Total Issues & Contributions by Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hash123shaikh&theme=default" width="90%" alt="Total Issues & Contributions by Time" />
 
 ---
 
