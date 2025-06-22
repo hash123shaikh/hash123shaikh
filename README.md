@@ -10,8 +10,8 @@ My current work focuses on building predictive models and segmentation pipelines
 
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/hash123shaikh/hash123shaikh/1_W0ur9D98GGM9HGstpvF1ZA.gif" width="100%" alt="Vibe Coding GIF">
+    <td width="50%">
+      <img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" width="100%" alt="Vibe Coding GIF">
     </td>
     <td>
       <h2 align="center">Hasan's GitHub Stats</h2>
@@ -25,7 +25,6 @@ My current work focuses on building predictive models and segmentation pipelines
     </td>
   </tr>
 </table>
-
 
 
 ---
