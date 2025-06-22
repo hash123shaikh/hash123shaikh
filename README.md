@@ -6,11 +6,20 @@ My current work focuses on building predictive models and segmentation pipelines
 
 ---
 
+## 🖥 GitHub Stats
+
+<p align="center">
+  <img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" alt="Vibe Coding" width="45%">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="45%">
+</p>
+
+---
+
 ### 🚀 Key Projects
 
 | Project | Description | Repo |
 |--------|-------------|------|
-| **Head & Neck Cancer Risk Prediction Dashboard** | A full-stack dashboard to predict locoregional recurrence using clinical + radiomics features. | [View Repo](https://github.com/hash123shaikh/...) |
+| **Head & Neck Cancer Risk Prediction Dashboard** | A full-stack dashboard to predict locoregional recurrence using clinical + radiomics features. | [View Repo](https://github.com/hash123shaikh/HNC-Risk-Prediction-Dashboard.git) |
 | **Radiomics-Based ML Pipeline** | Feature selection (LASSO, WOA, PSO) and classifier development for recurrence prediction using CT data. | [Access Code](https://github.com/hash123shaikh/...) |
 | **Auto-Segmentation Toolkit** | Leveraged nnUNet and MedSAM for tumor segmentation in CT scans. | [Check It Out](https://github.com/hash123shaikh/...) |
 
@@ -28,19 +37,6 @@ My current work focuses on building predictive models and segmentation pipelines
 ![MedSAM](https://img.shields.io/badge/MedSAM-Segmentation-9cf?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🖥 GitHub Stats
-
-<p align="left">
-  <img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" alt="Vibe Coding" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hash123shaikh&theme=default" width="45%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hash123shaikh&theme=default" width="90%">
-</p>
 
 ---
 
