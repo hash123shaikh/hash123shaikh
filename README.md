@@ -8,6 +8,13 @@ My current work focuses on building predictive models and segmentation pipelines
 
 ---
 
+### 📊 GitHub Stats
+
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hash123shaikh&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash123shaikh&layout=compact)
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Repo |
@@ -30,13 +37,6 @@ My current work focuses on building predictive models and segmentation pipelines
 ![MedSAM](https://img.shields.io/badge/MedSAM-Segmentation-9cf?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hash123shaikh&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash123shaikh&layout=compact)
 
 ---
 
