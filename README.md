@@ -56,7 +56,7 @@ With a strong belief in the **translational impact** of AI, my goal is to bridge
 
 - 📧 **Email**: hasanshaikh3198@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/hasann-shaikh](https://linkedin.com/in/hasann-shaikh)  
-- 🖥️ **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- 🖥️ **Portfolio**: [https://hash123shaikh.github.io/](https://hash123shaikh.github.io/)
 
 ---
 
