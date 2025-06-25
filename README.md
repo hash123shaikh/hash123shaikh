@@ -14,12 +14,8 @@ With a strong belief in the **translational impact** of AI, my goal is to bridge
 <p align="center">
   <img src="1_W0ur9D98GGM9HGstpvF1ZA.gif" alt="Vibe Coding" width="45%">
   <img src="https://streak-stats.demolab.com/?user=hash123shaikh" width="50%">
+  ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hash123shaikh&show_icons=true&theme=default)
 </p>
-
-https://streak-stats.demolab.com/?user=hash123shaikh
-
-
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hash123shaikh&show_icons=true&theme=default)
 
 
 ---
