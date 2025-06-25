@@ -16,6 +16,9 @@ With a strong belief in the **translational impact** of AI, my goal is to bridge
   <img src="https://streak-stats.demolab.com/?user=hash123shaikh&theme=default" width="50%">
 </p>
 
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hash123shaikh&show_icons=true&theme=default)
+
+
 ---
 
 ### 🚀 Key Projects
