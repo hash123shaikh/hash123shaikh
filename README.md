@@ -32,12 +32,4 @@ With a strong belief in the **translational impact** of AI, my goal is to bridge
 
 ---
 
-### 🌐 Let’s Connect
-
-- 📧 **Email**: hasanshaikh3198@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/hasann-shaikh](https://linkedin.com/in/hasann-shaikh)  
-- 🖥️ **Portfolio**: [https://hash123shaikh.github.io/](https://hash123shaikh.github.io/)
-
----
-
 > *“Turning radiomics into real-world impact — one model at a time.”*
