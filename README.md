@@ -7,16 +7,6 @@ With a strong belief in the **translational impact** of AI, my goal is to bridge
 
 ---
 
-### 🚀 Key Projects
-
-| Project | Description | Repo |
-|--------|-------------|------|
-| **Head & Neck Cancer Risk Prediction Dashboard** | A full-stack dashboard integrating clinical + radiomics data to predict **locoregional recurrence** in HNC patients. Built with FastAPI (backend), React (frontend), and trained ML models with explainability features. | [View Repo](https://github.com/hash123shaikh/HNC-Risk-Prediction-Dashboard.git) |
-| **Radiomics-Based ML Pipeline** *(Private)* | A robust ML pipeline for recurrence prediction using CT imaging. Implements multiple feature selection techniques (LASSO, WOA, PSO) and classifiers (SVM, LR), with extensive cross-validation and ROC/AUC analysis. | *Private — Access upon request* |
-| **Auto-Segmentation Toolkit** *(Private)* | An AI-based segmentation framework for identifying tumor volumes in CT scans using **nnUNet** and **MedSAM**. Currently used in prospective clinical studies. | *Private — Access upon request* |
-
----
-
 ### 🧠 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
