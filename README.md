@@ -1,25 +1,54 @@
-# 👋 Hi, I'm Hasan Shaikh  
-*AI Researcher in Cancer Imaging | Radiomics & Deep Learning | Data Scientist at the **Quantitative Imaging Research and Artificial Intelligence Lab (QIRAIL)**, Christian Medical College (CMC), Vellore*
+# Hey there! 👋 I'm Hasan Shaikh
 
-🔬 I'm deeply committed to solving **real-world healthcare challenges** through Artificial Intelligence. My primary focus lies in developing **predictive models** and **automated segmentation pipelines** for medical imaging, especially in **Head and Neck Cancer (HNC)**. I work extensively with **radiomics**, **machine learning**, and **deep learning** to push the boundaries of clinical research.
+## Data Scientist @ [QIRAIL Lab, CMC Vellore](https://qirail.cmcvellore.edu.in/)
 
-With a strong belief in the **translational impact** of AI, my goal is to bridge the gap between engineering and clinical practice — ensuring that data-driven solutions reach the patient bedside.
+I work at the **Quantitative Imaging Research and Artificial Intelligence Lab** in the Department of Radiation Oncology at [Ida B. Scudder Cancer Center](https://idabscuddercancercenter.org/about-us-2/), Christian Medical College, Vellore.
+
+My day-to-day? Building AI models that help oncologists make better treatment decisions for head and neck cancer patients. I spend a lot of time working with CT and MRI scans, extracting features through radiomics, and training deep learning models for automated segmentation.
+
+What really drives me is seeing research translate into something tangible. Whether it's a predictive model that helps personalize radiotherapy or an auto-segmentation pipeline that saves clinicians hours of manual work - I want my code to make a difference at the bedside, not just in papers.
+
+I'm particularly interested in adaptive radiotherapy and how we can use AI to continuously optimize treatment plans based on how tumors respond. There's so much potential in combining traditional radiomics with modern deep learning approaches.
 
 ---
 
-### 🧠 Tools & Technologies
+## 🔍 Research Interests
 
+**Radiomics** | **Auto-segmentation** | **Large Language Models**  
+**Adaptive Radiotherapy** | **AI & Machine Learning**  
+**Deep Learning** | **Radiation Oncology**
+
+---
+
+## 🛠️ Tools I work with
+
+### Medical Imaging & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyRadiomics](https://img.shields.io/badge/PyRadiomics-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![nnUNet](https://img.shields.io/badge/nnUNet-DeepLearning-blueviolet?style=for-the-badge)
 ![MedSAM](https://img.shields.io/badge/MedSAM-Segmentation-9cf?style=for-the-badge)
+
+### ML & Data Science
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Development
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-> *“Turning radiomics into real-world impact — one model at a time.”*
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasann-shaikh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hash123shaikh.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=9jjwZ8cAAAAJ)
+
+---
+
+> *Building AI that matters, one model at a time.*
+
+---
+
+> ### 💡 *"Turning radiomics into real-world impact — one model at a time."*
