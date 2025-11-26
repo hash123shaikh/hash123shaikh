@@ -4,11 +4,11 @@
 
 I work at the **Quantitative Imaging Research and Artificial Intelligence Lab** in the Department of Radiation Oncology at [Ida B. Scudder Cancer Center](https://idabscuddercancercenter.org/about-us-2/), Christian Medical College, Vellore.
 
-My day-to-day? Building AI models that help oncologists make better treatment decisions for head and neck cancer patients. I spend a lot of time working with CT and MRI scans, extracting features through radiomics, and training deep learning models for automated segmentation.
+My day-to-day? Building AI models that help oncologists make better treatment decisions for head and neck cancer patients. I spend a lot of time working with CT and MRI scans, extracting features, and training deep learning models for automated segmentation.
 
-What really drives me is seeing research translate into something tangible. Whether it's a predictive model that helps personalize radiotherapy or an auto-segmentation pipeline that saves clinicians hours of manual work - I want my code to make a difference at the bedside, not just in papers.
+What really drives me is seeing research translate into something tangible. Whether it's a predictive model that helps personalize radiotherapy or an auto-segmentation pipeline that saves clinicians hours of manual work.
 
-I'm particularly interested in adaptive radiotherapy and how we can use AI to continuously optimize treatment plans based on how tumors respond. There's so much potential in combining traditional radiomics with modern deep learning approaches.
+I'm particularly interested in adaptive radiotherapy and how we can use AI to continuously optimize treatment plans based on how tumors respond.
 
 ---
 
