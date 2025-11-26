@@ -14,9 +14,8 @@ I'm particularly interested in adaptive radiotherapy and how we can use AI to co
 
 ## 🔍 Research Interests
 
-**Radiomics** | **Auto-segmentation** | **Large Language Models**  
-**Adaptive Radiotherapy** | **AI & Machine Learning**  
-**Deep Learning** | **Radiation Oncology**
+*Radiomics* | **Auto-segmentation | Large Language Models | Radiation Oncology
+*Adaptive Radiotherapy* | *AI & Machine Learning*  | Deep Learning
 
 ---
 
