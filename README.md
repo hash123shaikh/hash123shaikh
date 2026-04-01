@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Hasan Shaikh
-## Project Assistant & Clinical Data Scientist @ [QIRAIL Lab, CMC Vellore](https://qirail.cmcvellore.edu.in/)
+## Clinical Data Scientist @ [QIRAIL Lab, CMC Vellore](https://qirail.cmcvellore.edu.in/)
 
 I work at the **Quantitative Imaging Research and Artificial Intelligence Lab** in the Department of Radiation Oncology at [Ida B. Scudder Cancer Center](https://idabscuddercancercenter.org/about-us-2/), Christian Medical College, Vellore — building AI pipelines that help oncologists make better treatment decisions for head and neck cancer patients.
 
