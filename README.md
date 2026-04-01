@@ -1,35 +1,75 @@
-# Hey there! 👋 I'm Hasan Shaikh
-## Clinical Data Scientist @ [QIRAIL Lab, CMC Vellore](https://qirail.cmcvellore.edu.in/)
-
-I work at the **Quantitative Imaging Research and Artificial Intelligence Lab** in the Department of Radiation Oncology at [Ida B. Scudder Cancer Center](https://idabscuddercancercenter.org/about-us-2/), Christian Medical College, Vellore — building AI pipelines that help oncologists make better treatment decisions for head and neck cancer patients.
-
-My day-to-day involves working with CT scans, DICOM/PACS engineering, extracting radiomic features, and training deep learning models for automated tumor segmentation across large patient cohorts.
-
-What drives me is research that translates into something tangible — whether it's a predictive signature that personalizes radiotherapy or an auto-segmentation pipeline that saves clinicians hours of manual contouring.
+# Hasan Shaikh - Medical Imaging & AI for Oncology Researcher
+🎓 M.Tech in Computer Engineering | Aligarh Muslim University (CGPA: 8.80/10)  
+🏥 Clinical Data Scientist @ QIRAIL Lab, CMC Vellore  
+🧠 Radiomics • Auto-Segmentation • Adaptive Radiotherapy • Cancer AI • Uncertainty Quantification
 
 ---
 
-## 🔬 Research Highlights
+## 👋 About Me
 
-- **Radiomics-Clinical Prognostic Signature** — 10-feature model (2 clinical + 8 radiomic) for locoregional recurrence prediction in locally advanced HNC *(ESTRO 2026, Accepted as Poster Highlight)*
-- **Metaheuristic-Driven Radiomics Pipelines** — Benchmarked GA, PSO, GWO, WOA, and SA across classifiers for high-dimensional radiomics feature selection *(Springer LNEE, AIHC 2025)*
-- **3D nnU-Net for HNC Auto-Segmentation** — Multi-institutional training (MAASTRO + CMC Vellore); surfaced a 7% generalization gap on Indian patients *(medRxiv preprint, 2026)*
-- **CHAVI National Oncology Biobank** — Contributed 304+ de-identified cases with validated imaging metadata (collaboration: Tata Memorial Centre & IIT Kharagpur)
-- **CNN Reproducibility Audit** — Identified and corrected errors in a published CNN model for HNC prognosis; formally acknowledged by the original authors
+I am a clinical data scientist and medical imaging researcher working at the **Quantitative Imaging Research and Artificial Intelligence Lab ([QIRAIL](https://qirail.cmcvellore.edu.in/))**, Department of Radiation Oncology, Christian Medical College, Vellore — one of India's leading cancer centers.
+
+My work focuses on building AI pipelines that help oncologists make smarter, faster, and more personalized treatment decisions for head and neck cancer patients.
+
+My research primarily focuses on:
+- Radiomics-Based Cancer Outcome Prediction
+- Automated Tumor Segmentation (3D CNNs, nnU-Net)
+- Adaptive Radiotherapy & Treatment Planning Automation
+- Uncertainty Quantification in Clinical AI
+- DICOM/PACS Engineering & Clinical Data Pipelines
+- Multimodal Deep Learning for Oncology
+
+I have authored and co-authored multiple papers, including a **Poster Highlight accepted at ESTRO 2026** (European Society for Radiotherapy and Oncology), a Springer LNEE conference paper, a medRxiv preprint, and an Elsevier book chapter. I also organize hands-on radiomics and auto-segmentation workshops for clinicians and researchers.
+
+I genuinely enjoy talking with people — researchers, clinicians, or anyone curious about AI in healthcare. Feel free to reach out anytime.
+
+> 🎯 **I am actively looking for PhD positions** in medical imaging, radiation oncology AI, uncertainty quantification, adaptive radiotherapy, and cancer research.
 
 ---
 
-## 🔍 Research Interests
+## 🔬 Publications & Research
 
-*Radiomics* · *Auto-Segmentation* · *Adaptive Radiotherapy* · *Treatment Planning Automation*  
-*Uncertainty Quantification* · *Medical Image Analysis* · *Cancer Outcome Prediction*  
-*Deep Learning for Oncology* · *DICOM/PACS Engineering* · *Locoregional Recurrence Prediction*
+### Conference Papers
+- 📄 **[Development and Validation of a Prospective Radiomics-Clinical Signature for Locoregional Recurrence in Locally Advanced Head and Neck Cancer](https://qirail.cmcvellore.edu.in/)**  
+  Balu Krishna S, Amal Joseph Varghese, **Hasan Shaikh** et al.  
+  *European Society for Radiotherapy and Oncology (ESTRO 2026), Stockholm, Sweden* — **✅ Accepted as Poster Highlight**
+
+- 📄 **[Metaheuristic-Driven Machine Learning Pipelines for Radiomics-Based Prediction of Locoregional Recurrence in Head and Neck Cancer](https://link.springer.com/)**  
+  **Hasan Shaikh**, Balu Krishna S, Amal Joseph Varghese et al.  
+  *Lecture Notes in Electrical Engineering, Springer Nature — AIHC 2025, NIT Calicut* — **✅ Accepted**
+
+### Preprints
+- 📄 **[Automated Segmentation of Head and Neck Cancer from CT Images Using 3D Convolutional Neural Networks](https://doi.org/10.64898/2026.03.12.26347996)**  
+  Piyus Prabhanjans, Asjad Nabeel P, ..., **Hasan Shaikh** et al.  
+  *medRxiv, 2026*
+
+### Book Chapters
+- 📄 **[Cancer Survival Prediction Using Artificial Intelligence: Current Status and Future Prospects](https://doi.org/10.1016/B978-0-443-24028-7.00016-7)**  
+  **Hasan Shaikh** and Rashid Ali  
+  *Data Science in the Medical Field, Academic Press, Elsevier, 2024*
+
+### Poster Presentations
+- 🪧 **"Before We Treat, Can We Tell? A Locoregional Recurrence Signature in Head & Neck"**  
+  *15th Annual Research Day, CMC Vellore, 2025*
+
+- 🪧 **"Can CT Radiomics Predict Recurrence in Head and Neck Cancer? Early Results from a Prospective Imaging Trial"**  
+  *14th Annual Research Day, CMC Vellore, 2024*
 
 ---
 
-## 🎯 Currently Looking for a PhD Position
+## 🏫 Workshops Organized
 
-I'm actively applying for PhD positions in **medical imaging and AI for oncology**. If your lab works on any of the following, I'd love to talk:
+- 🛠️ **2nd Workshop on Radiomics and Auto-Segmentation** *(March 2026)*  
+  Dept. of Radiation Oncology & QIRAIL Lab, CMC Vellore — Hands-on training for clinicians and researchers on radiomics pipelines and auto-segmentation tools.
+
+- 🛠️ **1st Workshop on Radiomics and Auto-Segmentation** *(November 14–15, 2024)*  
+  Dept. of Radiation Oncology & QIRAIL Lab, CMC Vellore — [Certificate](https://drive.google.com/file/d/1Ucz1SRs9rlKJfk40z3huo22ITtUeCwLx/view?usp=drive_link)
+
+---
+
+## 🎯 Looking for a PhD Position
+
+I'm actively applying for PhD positions. If your lab works on any of the following, I'd love to connect:
 
 - 🧠 Medical image analysis & segmentation
 - 🎯 Radiomics & cancer outcome prediction
@@ -37,8 +77,6 @@ I'm actively applying for PhD positions in **medical imaging and AI for oncology
 - ⚙️ Adaptive radiotherapy & treatment planning automation
 - 🔁 Auto-segmentation for radiation oncology workflows
 - 🧬 Multimodal learning for cancer research
-
-I've presented at **ESTRO 2026** (Poster Highlight) and **AIHC 2025** (Springer), and I bring hands-on experience with real clinical pipelines — not just benchmark datasets.
 
 ---
 
@@ -59,30 +97,18 @@ I've presented at **ESTRO 2026** (Poster Highlight) and **AIHC 2025** (Springer)
 
 ---
 
-## 📄 Selected Publications
-
-| Year | Title | Venue |
-|------|-------|-------|
-| 2026 | Prospective radiomics-clinical signature for locoregional recurrence in LAHNS cancer | **ESTRO 2026** *(Poster Highlight)* |
-| 2026 | Automated Segmentation of HNC from CT using 3D CNNs | **medRxiv** *(Preprint)* |
-| 2025 | Metaheuristic-Driven ML Pipelines for Radiomics-Based LRR Prediction | **Springer LNEE, AIHC 2025** |
-| 2024 | Cancer Survival Prediction Using AI: Current Status and Future Prospects | **Elsevier Academic Press** |
-
----
-
 ## 🙋 A Little More About Me
 
-- 💬 I genuinely enjoy talking with people — researchers, clinicians, engineers, or anyone curious about AI in healthcare. Reach out anytime, seriously.
-- 🤖 I believe AI will fundamentally automate radiation oncology end-to-end — from radiation therapy delivery and treatment planning, to auto-segmentation, adaptive radiotherapy, and eventually a fully paperless, AI-driven clinical workflow and EMR. We're not there yet, but the pieces are falling into place fast.
-- 🌍 I think the biggest gains from medical AI won't happen in well-resourced hospitals — they'll happen in under-resourced settings where access to expert clinicians is limited. That's what makes this work matter.
-- 🎓 M.Tech in Computer Engineering from Aligarh Muslim University (CGPA: 8.80/10)
+- 💬 I love talking with people — researchers, clinicians, engineers, or anyone curious about AI in healthcare. Just message me.
+- 🤖 I believe AI will eventually automate radiation oncology end-to-end — radiation therapy delivery, treatment planning, auto-segmentation, adaptive radiotherapy, and a fully paperless AI-driven EMR. We're close.
+- 🌍 The biggest impact of medical AI won't be in well-resourced hospitals — it'll be in under-resourced settings where expert clinicians are scarce.
 - 📍 Based in Vellore, Tamil Nadu, India
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-I'm always open to conversations about research, PhD opportunities, or collaborations. Don't hesitate to reach out — I mean it.
+I'm always open to conversations about research, PhD opportunities, or collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasann-shaikh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hash123shaikh.github.io/)
