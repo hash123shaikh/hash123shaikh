@@ -30,11 +30,11 @@ I genuinely enjoy talking with people — researchers, clinicians, or anyone cur
 ## 🔬 Publications & Research
 
 ### Conference Papers
-- 📄 **[Development and Validation of a Prospective Radiomics-Clinical Signature for Locoregional Recurrence in Locally Advanced Head and Neck Cancer](https://qirail.cmcvellore.edu.in/)**  
+- 📄 **Development and Validation of a Prospective Radiomics-Clinical Signature for Locoregional Recurrence in Locally Advanced Head and Neck Cancer**  
   Balu Krishna S, Amal Joseph Varghese, **Hasan Shaikh** et al.  
   *European Society for Radiotherapy and Oncology (ESTRO 2026), Stockholm, Sweden* — **✅ Accepted as Poster Highlight**
 
-- 📄 **[Metaheuristic-Driven Machine Learning Pipelines for Radiomics-Based Prediction of Locoregional Recurrence in Head and Neck Cancer](https://link.springer.com/)**  
+- 📄 **Metaheuristic-Driven Machine Learning Pipelines for Radiomics-Based Prediction of Locoregional Recurrence in Head and Neck Cancer**  
   **Hasan Shaikh**, Balu Krishna S, Amal Joseph Varghese et al.  
   *Lecture Notes in Electrical Engineering, Springer Nature — AIHC 2025, NIT Calicut* — **✅ Accepted**
 
