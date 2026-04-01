@@ -22,7 +22,23 @@ What drives me is research that translates into something tangible — whether i
 ## 🔍 Research Interests
 
 *Radiomics* · *Auto-Segmentation* · *Adaptive Radiotherapy* · *Treatment Planning Automation*  
-*Uncertainty Quantification* · *Deep Learning for Oncology* · *DICOM/PACS Engineering*
+*Uncertainty Quantification* · *Medical Image Analysis* · *Cancer Outcome Prediction*  
+*Deep Learning for Oncology* · *DICOM/PACS Engineering* · *Locoregional Recurrence Prediction*
+
+---
+
+## 🎯 Currently Looking for a PhD Position
+
+I'm actively applying for PhD positions in **medical imaging and AI for oncology**. If your lab works on any of the following, I'd love to talk:
+
+- 🧠 Medical image analysis & segmentation
+- 🎯 Radiomics & cancer outcome prediction
+- 📐 Uncertainty quantification in clinical AI
+- ⚙️ Adaptive radiotherapy & treatment planning automation
+- 🔁 Auto-segmentation for radiation oncology workflows
+- 🧬 Multimodal learning for cancer research
+
+I've presented at **ESTRO 2026** (Poster Highlight) and **AIHC 2025** (Springer), and I bring hands-on experience with real clinical pipelines — not just benchmark datasets.
 
 ---
 
@@ -54,12 +70,25 @@ What drives me is research that translates into something tangible — whether i
 
 ---
 
-## 📫 Connect with Me
+## 🙋 A Little More About Me
+
+- 💬 I genuinely enjoy talking with people — researchers, clinicians, engineers, or anyone curious about AI in healthcare. Reach out anytime, seriously.
+- 🤖 I believe AI will fundamentally automate radiation oncology end-to-end — from radiation therapy delivery and treatment planning, to auto-segmentation, adaptive radiotherapy, and eventually a fully paperless, AI-driven clinical workflow and EMR. We're not there yet, but the pieces are falling into place fast.
+- 🌍 I think the biggest gains from medical AI won't happen in well-resourced hospitals — they'll happen in under-resourced settings where access to expert clinicians is limited. That's what makes this work matter.
+- 🎓 M.Tech in Computer Engineering from Aligarh Muslim University (CGPA: 8.80/10)
+- 📍 Based in Vellore, Tamil Nadu, India
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to conversations about research, PhD opportunities, or collaborations. Don't hesitate to reach out — I mean it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasann-shaikh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hash123shaikh.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=9jjwZ8cAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3806-613X)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanshaikh3198@gmail.com)
 
 ---
 
