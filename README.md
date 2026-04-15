@@ -1,5 +1,5 @@
 # Hasan Shaikh - Medical Imaging & AI for Oncology Researcher
-🎓 M.Tech in Computer Engineering | Aligarh Muslim University (CGPA: 8.80/10)  
+🎓 M.Tech in Computer Engineering | Aligarh Muslim University, India (CGPA: 8.80/10)  
 🏥 Clinical Data Scientist @ QIRAIL Lab, CMC Vellore  
 🧠 Radiomics • Auto-Segmentation • Adaptive Radiotherapy • Cancer AI • Uncertainty Quantification
 
@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-I am a clinical data scientist and medical imaging researcher working at the **Quantitative Imaging Research and Artificial Intelligence Lab ([QIRAIL](https://qirail.cmcvellore.edu.in/))**, Department of Radiation Oncology, Christian Medical College, Vellore — one of India's leading cancer centers.
+I am a clinical data scientist and medical imaging researcher working at the **Quantitative Imaging Research and Artificial Intelligence Lab ([QIRAIL](https://qirail.cmcvellore.edu.in/))**, Department of Radiation Oncology, Christian Medical College, Vellore, India — one of India's leading cancer centers.
 
 My work focuses on building AI pipelines that help oncologists make smarter, faster, and more personalized treatment decisions for head and neck cancer patients.
 
@@ -19,7 +19,7 @@ My research primarily focuses on:
 - DICOM/PACS Engineering & Clinical Data Pipelines
 - Multimodal Deep Learning for Oncology
 
-I have authored and co-authored multiple papers, including a **Poster Highlight accepted at ESTRO 2026** (European Society for Radiotherapy and Oncology), a Springer LNEE conference paper, a medRxiv preprint, and an Elsevier book chapter. I also organize hands-on radiomics and auto-segmentation workshops for clinicians and researchers.
+I have authored and co-authored multiple papers, including a **Poster Highlight accepted at ESTRO 2026, Sweden** (European Society for Radiotherapy and Oncology), a Springer LNEE conference paper, a medRxiv preprint, and an Elsevier book chapter. I also organize hands-on radiomics and auto-segmentation workshops for clinicians, Medical Physics, and researchers.
 
 I genuinely enjoy talking with people — researchers, clinicians, or anyone curious about AI in healthcare. Feel free to reach out anytime.
 
@@ -36,7 +36,7 @@ I genuinely enjoy talking with people — researchers, clinicians, or anyone cur
 
 - 📄 **Metaheuristic-Driven Machine Learning Pipelines for Radiomics-Based Prediction of Locoregional Recurrence in Head and Neck Cancer**  
   **Hasan Shaikh**, Balu Krishna S, Amal Joseph Varghese et al.  
-  *Lecture Notes in Electrical Engineering, Springer Nature — AIHC 2025, NIT Calicut* — **✅ Accepted**
+  *Lecture Notes in Electrical Engineering, Springer Nature* — **✅ Accepted**
 
 ### Preprints
 - 📄 **[Automated Segmentation of Head and Neck Cancer from CT Images Using 3D Convolutional Neural Networks](https://doi.org/10.64898/2026.03.12.26347996)**  
@@ -59,11 +59,11 @@ I genuinely enjoy talking with people — researchers, clinicians, or anyone cur
 
 ## 🏫 Workshops Organized
 
-- 🛠️ **2nd Workshop on Radiomics and Auto-Segmentation** *(March 2026)*  
-  Dept. of Radiation Oncology & QIRAIL Lab, CMC Vellore — Hands-on training for clinicians and researchers on radiomics pipelines and auto-segmentation tools.
+- 🛠️ **2nd Workshop on Radiomics and Auto-Segmentation - 2nd edition** *(March 2026)*  
+  Dept. of Radiation Oncology & QIRAIL Lab, CMC Vellore — Hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools.
 
-- 🛠️ **1st Workshop on Radiomics and Auto-Segmentation** *(November 14–15, 2024)*  
-  Dept. of Radiation Oncology & QIRAIL Lab, CMC Vellore — [Certificate](https://drive.google.com/file/d/1Ucz1SRs9rlKJfk40z3huo22ITtUeCwLx/view?usp=drive_link)
+- 🛠️ **1st Workshop on Radiomics and Auto-Segmentation - 1st edition** *(November 14–15, 2025)*  
+  Dept. of Radiation Oncology & QIRAIL Lab, CMC Vellore — Hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools. [Certificate](https://drive.google.com/file/d/1Ucz1SRs9rlKJfk40z3huo22ITtUeCwLx/view?usp=drive_link)
 
 ---
 
