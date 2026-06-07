@@ -45,7 +45,7 @@ I genuinely enjoy talking with people — researchers, clinicians, or anyone cur
 
 ### Preprints
 - 📄 **[Automated Segmentation of Head and Neck Cancer from CT Images Using 3D Convolutional Neural Networks](https://doi.org/10.64898/2026.03.12.26347996)**  
-  Piyus Prabhanjans, Asjad Nabeel P, ..., **Hasan Shaikh** et al.  
+  Piyus Prabhanjans, Asjad Nabeel P, Aparna V K, Hannah Mary Thomas T, Balu Krishna Sasidharan, **Hasan Shaikh**, et al.
   *medRxiv, 2026*
 
 ### Book Chapters
@@ -55,20 +55,20 @@ I genuinely enjoy talking with people — researchers, clinicians, or anyone cur
 
 ### Poster Presentations
 - 🪧 **"Before We Treat, Can We Tell? A Locoregional Recurrence Signature in Head & Neck"**  
-  *15th Annual Research Day, CMC Vellore, 2025*
+  *15th Annual Research Day, Christian Medical College, Vellore, India, 2025*
 
 - 🪧 **"Can CT Radiomics Predict Recurrence in Head and Neck Cancer? Early Results from a Prospective Imaging Trial"**  
-  *14th Annual Research Day, CMC Vellore, 2024*
+  *14th Annual Research Day, Christian Medical College, Vellore, India, 2024*
 
 ---
 
 ## 🏫 Workshops Organized
 
 - 🛠️ **2nd Workshop on Radiomics and Auto-Segmentation - 2nd edition** *(March 2026)*  
-  Dept. of Radiation Oncology & QIRAIL Lab, CMC Vellore — Hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools.
+  Department of Radiation Oncology & QIRAIL Lab, Christian Medical College, Vellore, India — Hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools.
 
 - 🛠️ **1st Workshop on Radiomics and Auto-Segmentation - 1st edition** *(November 14–15, 2025)*  
-  Dept. of Radiation Oncology & QIRAIL Lab, CMC Vellore — Hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools. [Certificate](https://drive.google.com/file/d/1Ucz1SRs9rlKJfk40z3huo22ITtUeCwLx/view?usp=drive_link)
+  Department of Radiation Oncology & QIRAIL Lab, Christian Medical College, Vellore, India — Hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools. [Certificate](https://drive.google.com/file/d/1Ucz1SRs9rlKJfk40z3huo22ITtUeCwLx/view?usp=drive_link)
 
 ---
 
