@@ -29,7 +29,12 @@ I genuinely enjoy talking with people — researchers, clinicians, or anyone cur
 
 ## 🔬 Publications & Research
 
-### Conference Papers
+### Under Submission
+- 📄 **Can reproducibility be achieved? External validation of `Reproducible' image-based prognostic models for head and neck cancer**  
+  **Hasan Shaikh**, Sathya A, Praveenraj C, Balu Krishna S, Aparna Irodi, Rajendra Benny Kuchipudi, et al. 
+  *Scientific Reports, Nature Portfolio*
+
+### Conference
 - 📄 **Development and Validation of a Prospective Radiomics-Clinical Signature for Locoregional Recurrence in Locally Advanced Head and Neck Cancer**  
   Balu Krishna S, Amal Joseph Varghese, **Hasan Shaikh** et al.  
   *European Society for Radiotherapy and Oncology (ESTRO 2026), Stockholm, Sweden* — **✅ Accepted as Poster Highlight**
