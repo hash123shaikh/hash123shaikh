@@ -30,7 +30,7 @@ I genuinely enjoy talking with people — researchers, clinicians, or anyone cur
 ## 🔬 Publications & Research
 
 ### Under Submission
-- 📄 **Can reproducibility be achieved? External validation of `Reproducible' image-based prognostic models for head and neck cancer**  
+- 📄 **Can reproducibility be achieved? External validation of `Reproducible' image-based prognostic models for head and neck cancer**
   **Hasan Shaikh**, Sathya A, Praveenraj C, Balu Krishna S, Aparna Irodi, Rajendra Benny Kuchipudi, et al. 
   *Scientific Reports, Nature Portfolio*
 
