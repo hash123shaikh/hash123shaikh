@@ -32,11 +32,11 @@ I genuinely enjoy talking with people — researchers, clinicians, or anyone cur
 ### Under Submission
 - 📄 **Anatomy-Guided Skip-connection Recalibration for CT-based Head and Neck Tumor Auto-segmentation**  
   Asjad Nabeel P, Hannah Mary Thomas T, **Hasan Shaikh**, Sathya A, Rajendra Benny Kuchipudi, Jino Wilson Victor, Simon P Pavamani, Balu Krishna Sasidharan, Jeny Rajan  
-  *International Journal of Biomedical Imaging*
+  *International Journal of Biomedical Imaging, 2026*
 
 - 📄 **Can reproducibility be achieved? External validation of 'Reproducible' image-based prognostic models for head and neck cancer**  
   **Hasan Shaikh**, Sathya A, Praveenraj C, Balu Krishna S, Aparna Irodi, Rajendra Benny Kuchipudi, Jino Wilson Victor, Manu Mathew, Rajesh Isiah, Simon Pavamani, Joy Mammen, Hannah Mary Thomas T  
-  *Scientific Reports, Nature Portfolio*
+  *Scientific Reports, Nature Portfolio, 2026*
 
 ### Conference
 - 📄 **Development and validation of a prospective radiomics-clinical signature for locoregional recurrence in patients with locally advanced head and neck cancer**  
