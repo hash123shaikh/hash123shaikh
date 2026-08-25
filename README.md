@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-I am a clinical data scientist and medical imaging researcher working at the **Quantitative Imaging Research and Artificial Intelligence Lab ([QIRAIL](https://qirail.cmcvellore.edu.in/))**, Department of Radiation Oncology, Christian Medical College, Vellore, India — one of India's leading cancer centers.
+I am a clinical data scientist and medical imaging researcher working at the **Quantitative Imaging Research and Artificial Intelligence Lab ([QIRAIL](https://qirail.cmcvellore.edu.in/))**, Department of Radiation Oncology, Christian Medical College, Vellore, India, one of India's leading cancer centers.
 
 My work focuses on building AI pipelines that help oncologists make smarter, faster, and more personalized treatment decisions for head and neck cancer patients.
 
@@ -19,7 +19,7 @@ My research primarily focuses on:
 - DICOM/PACS Engineering & Clinical Data Pipelines
 - Multimodal Deep Learning for Oncology
 
-I have authored and co-authored multiple papers, including a **Poster Highlight accepted at ESTRO 2026, Sweden** (European Society for Radiotherapy and Oncology), a Springer LNEE conference paper, a medRxiv preprint, and an Elsevier book chapter. I also organize hands-on radiomics and auto-segmentation workshops for clinicians, Medical Physics, and researchers.
+I have authored and co-authored multiple papers, including a **Poster Highlight presented at the European Society for Radiotherapy and Oncology (ESTRO) 2026, Sweden**, a Springer LNEE conference paper, a medRxiv preprint, and an Elsevier book chapter. I also organize hands-on radiomics and auto-segmentation workshops for clinicians, Medical Physics, and researchers.
 
 I genuinely enjoy talking with people — researchers, clinicians, or anyone curious about AI in healthcare. Feel free to reach out anytime.
 
@@ -30,22 +30,26 @@ I genuinely enjoy talking with people — researchers, clinicians, or anyone cur
 ## 🔬 Publications & Research
 
 ### Under Submission
-- 📄 **Can reproducibility be achieved? External validation of `Reproducible' image-based prognostic models for head and neck cancer**
-  **Hasan Shaikh**, Sathya A, Praveenraj C, Balu Krishna S, Aparna Irodi, Rajendra Benny Kuchipudi, et al. 
+- 📄 **Anatomy-Guided Skip-connection Recalibration for CT-based Head and Neck Tumor Auto-segmentation**  
+  Asjad Nabeel P, Hannah Mary Thomas T, **Hasan Shaikh**, Sathya A, Rajendra Benny Kuchipudi, Jino Wilson Victor, Simon P Pavamani, Balu Krishna Sasidharan, Jeny Rajan  
+  *International Journal of Biomedical Imaging*
+
+- 📄 **Can reproducibility be achieved? External validation of 'Reproducible' image-based prognostic models for head and neck cancer**  
+  **Hasan Shaikh**, Sathya A, Praveenraj C, Balu Krishna S, Aparna Irodi, Rajendra Benny Kuchipudi, Jino Wilson Victor, Manu Mathew, Rajesh Isiah, Simon Pavamani, Joy Mammen, Hannah Mary Thomas T  
   *Scientific Reports, Nature Portfolio*
 
 ### Conference
-- 📄 **Development and Validation of a Prospective Radiomics-Clinical Signature for Locoregional Recurrence in Locally Advanced Head and Neck Cancer**  
+- 📄 **Development and validation of a prospective radiomics-clinical signature for locoregional recurrence in patients with locally advanced head and neck cancer**  
   Balu Krishna S, Amal Joseph Varghese, **Hasan Shaikh** et al.  
-  *European Society for Radiotherapy and Oncology (ESTRO 2026), Stockholm, Sweden* — **✅ Accepted as Poster Highlight**
+  *European Society for Radiotherapy and Oncology (ESTRO), Stockholm, Sweden, 2026* — **✅ Accepted (Abstract, Poster)**
 
 - 📄 **Metaheuristic-Driven Machine Learning Pipelines for Radiomics-Based Prediction of Locoregional Recurrence in Head and Neck Cancer**  
   **Hasan Shaikh**, Balu Krishna S, Amal Joseph Varghese et al.  
-  *Lecture Notes in Electrical Engineering, Springer Nature* — **✅ Accepted**
+  *Proceedings of the International Conference on Artificial Intelligence for Healthcare (AIHC), Lecture Notes in Electrical Engineering, Springer Nature, 2025* — **✅ Accepted**
 
 ### Preprints
 - 📄 **[Automated Segmentation of Head and Neck Cancer from CT Images Using 3D Convolutional Neural Networks](https://doi.org/10.64898/2026.03.12.26347996)**  
-  Piyus Prabhanjans, Asjad Nabeel P, Aparna V K, Hannah Mary Thomas T, Balu Krishna Sasidharan, **Hasan Shaikh**, et al.
+  Piyus Prabhanjans, Asjad Nabeel P, Aparna V K, Hannah Mary Thomas T, Balu Krishna Sasidharan, **Hasan Shaikh**, Amal Joseph Varghese, Rajendra Benny Kuchipudi, Simon Pavamani, Jeny Rajan  
   *medRxiv, 2026*
 
 ### Book Chapters
@@ -55,20 +59,22 @@ I genuinely enjoy talking with people — researchers, clinicians, or anyone cur
 
 ### Poster Presentations
 - 🪧 **"Before We Treat, Can We Tell? A Locoregional Recurrence Signature in Head & Neck"**  
+  **Hasan Shaikh**, Amal Joseph Varghese, Balu Krishna S et al.  
   *15th Annual Research Day, Christian Medical College, Vellore, India, 2025*
-
+  
 - 🪧 **"Can CT Radiomics Predict Recurrence in Head and Neck Cancer? Early Results from a Prospective Imaging Trial"**  
+  **Hasan Shaikh**, Amal Joseph Varghese, Hannah Mary Thomas T et al.  
   *14th Annual Research Day, Christian Medical College, Vellore, India, 2024*
 
 ---
 
 ## 🏫 Workshops Organized
-
+ 
 - 🛠️ **2nd Workshop on Radiomics and Auto-Segmentation - 2nd edition** *(March 2026)*  
-  Department of Radiation Oncology & QIRAIL Lab, Christian Medical College, Vellore, India — Hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools.
+  Department of Radiation Oncology & QIRAIL Lab, Christian Medical College, Vellore, India, hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools.
 
-- 🛠️ **1st Workshop on Radiomics and Auto-Segmentation - 1st edition** *(November 14–15, 2025)*  
-  Department of Radiation Oncology & QIRAIL Lab, Christian Medical College, Vellore, India — Hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools. [Certificate](https://drive.google.com/file/d/1Ucz1SRs9rlKJfk40z3huo22ITtUeCwLx/view?usp=drive_link)
+- 🛠️ **1st Workshop on Radiomics and Auto-Segmentation - 1st edition** *(November 14-15, 2025)*  
+  Department of Radiation Oncology & QIRAIL Lab, Christian Medical College, Vellore, India, hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools. [Certificate](https://drive.google.com/file/d/1Ucz1SRs9rlKJfk40z3huo22ITtUeCwLx/view?usp=drive_link)
 
 ---
 
