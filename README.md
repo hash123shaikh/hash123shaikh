@@ -68,14 +68,6 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=9jjwZ8cA
 
 <img src="assets/path.svg" alt="Timeline of education and work" width="100%">
 
-B.Tech CGPA 8.04/10 (honors, top 1% of 128 students); M.Tech CGPA 8.80/10. At STARlab Capital I worked on volatility-based options strategies and open-source backtesting.
-
----|---|
-| **2024 to now** | Data Scientist, QIRAIL, Dept. of Radiation Oncology, CMC Vellore |
-| **2023 to 2024** | Research Analyst, STARlab Capital, Lucknow: volatility-based options strategies and open-source backtesting |
-| **2021 to 2023** | M.Tech, Computer Science and Engineering, Aligarh Muslim University (CGPA 8.80/10) |
-| **2017 to 2021** | B.Tech, Computer Science and Engineering, AKTU Lucknow (CGPA 8.04/10), honors degree, top 1% of 128 students |
-
 <img src="assets/h-tools.svg" alt="Toolbox" width="100%">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
