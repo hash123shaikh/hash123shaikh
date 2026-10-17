@@ -21,12 +21,6 @@ I built a radiomics signature that predicts head and neck cancer recurrence (AUC
 
 <a href="mailto:hasanshaikh3198@gmail.com"><img src="assets/phd.svg" alt="I am looking for a PhD position in medical imaging and AI for oncology" width="100%"></a>
 
-<img src="assets/h-numbers.svg" alt="By the numbers" width="100%">
-
-<img src="assets/stats.svg" alt="2,000+ patients, AUC 0.82, Dice 0.65, 10 features kept from 1,000+, 304+ CHAVI cases" width="100%">
-
-Also: **0.22** is the largest AUC gap I found reproducing a published CNN study that reported 95% checklist compliance. **91.2%** is the breast cancer survival accuracy of my multimodal thesis model on METABRIC. **ESTRO 2026** (Stockholm) selected my work as a poster highlight.
-
 <img src="assets/h-how.svg" alt="How my work runs" width="100%">
 
 <img src="assets/pipeline.svg" alt="Five steps: scan, outline, measure, select, predict" width="100%">
@@ -42,40 +36,6 @@ A planning CT goes in. A 3D nnU-Net outlines the tumour. PyRadiomics turns the o
 - **Reproducibility and trustworthy AI**: CLAIM and TRIPOD+AI assessments
 - **Multimodal deep learning** across imaging, clinical and genomic data
 - **DICOM/PACS engineering** and clinical data pipelines (Orthanc, XNAT, AWS S3)
-
-<img src="assets/h-selected.svg" alt="Selected work" width="100%">
-
-<details open>
-<summary><b>Radiomics risk stratification for head and neck cancer</b> · ESTRO 2026 poster highlight</summary>
-
-A 10-feature signature (2 clinical, 8 radiomic) for locoregional recurrence. Five metaheuristic algorithms, including a genetic algorithm, searched 1,000+ candidate features for the most stable subset. AUC 0.82 in 327 patients treated with primary radiation, explained per prediction with SHAP.
-</details>
-
-<details>
-<summary><b>Can reproducibility be achieved?</b> · Under submission, Scientific Reports</summary>
-
-I re-ran a published CNN prognosis study from the authors' code, data and Docker container. AUCs differed by −0.22 to +0.10, and fixing the code took almost seven weeks. External validation on a separate cohort (n=102) gave an AUC of 0.49 to 0.59, close to chance. The paper had reported 95% CLAIM compliance, which shows that a high checklist score does not guarantee a trustworthy model.
-</details>
-
-<details>
-<summary><b>Tumour segmentation with 3D CNNs</b> · with NIT Karnataka, Surathkal</summary>
-
-167 CT cases (137 MAASTRO, 30 CMC Vellore) and a 3D nnU-Net for gross tumour volume: Dice 0.62 on MAASTRO, 0.63 on CMC and 0.65 combined. Co-author of AGSR-Net, which lifts Dice from 0.70 to 0.73 and cuts HD95 from 33.92 to 21.22 mm across 896 patients.
-</details>
-
-<details>
-<summary><b>A 2,000-patient imaging pipeline and India's first oncology biobank</b></summary>
-
-An end-to-end DICOM retrieval pipeline on Orthanc PACS, automated segmentation and PyRadiomics extraction across the cohort, and AWS S3 backups with automatic recovery for a five-year multisite radiotherapy study. Separately, 304+ de-identified cases anonymised with XNAT and Orthanc for CHAVI, in collaboration with Tata Memorial Centre and IIT Kharagpur.
-</details>
-
-<details>
-<summary><b>MGAttCNNMD: multimodal survival prediction</b> · M.Tech thesis, Aligarh Muslim University</summary>
-
-Three gated-attention CNNs (clinical, copy number, gene expression) fused by a stacked random forest. 91.2% accuracy on METABRIC, ahead of every single-modality baseline. Advisor: Prof. Rashid Ali.
-</details>
-
-More detail on the **[portfolio](https://hash123shaikh.github.io/projects/)**.
 
 <img src="assets/h-pubs.svg" alt="Publications" width="100%">
 
