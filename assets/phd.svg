@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="I am looking for a PhD position in medical imaging and AI for oncology. Email hasanshaikh3198@gmail.com">
+<defs><linearGradient id="wash" x1="0" y1="0" x2="1" y2="0"><stop offset="0.00" stop-color="#3B6BFF"/><stop offset="0.20" stop-color="#14B8D4"/><stop offset="0.40" stop-color="#22C55E"/><stop offset="0.60" stop-color="#F2D21B"/><stop offset="0.80" stop-color="#FF8A1F"/><stop offset="1.00" stop-color="#F0343F"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060E16"/><stop offset="1" stop-color="#0E2A48"/></linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#8DB9F5" opacity=".16"/></pattern><clipPath id="rc"><rect width="1200" height="150" rx="20"/></clipPath></defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.serif{font-family:Georgia,'Times New Roman',serif}</style>
+<g clip-path="url(#rc)"><rect width="1200" height="150" fill="url(#bg)"/><rect width="1200" height="150" fill="url(#dots)"/><rect x="3" y="3" width="1194" height="144" rx="18" fill="none" stroke="#F0343F" stroke-width="3"><animate attributeName="stroke-opacity" values="1;.35;1" dur="2.6s" repeatCount="indefinite"/></rect>
+<circle cx="70" cy="75" r="9" fill="#F0343F"><animate attributeName="r" values="9;14;9" dur="2.6s" repeatCount="indefinite"/></circle>
+<text x="110" y="62" font-size="30" font-weight="800" fill="#fff">I am looking for a PhD position.</text>
+<text x="110" y="96" font-size="19" fill="#EAF2F8">Medical imaging and AI for oncology: radiomics, tumour segmentation, adaptive radiotherapy,</text>
+<text x="110" y="122" font-size="19" fill="#EAF2F8">uncertainty quantification, toxicity and follow-up modelling.</text>
+<text x="1160" y="130" text-anchor="end" font-size="17" font-weight="700" fill="#FF9AA0">hasanshaikh3198@gmail.com</text></g></svg>

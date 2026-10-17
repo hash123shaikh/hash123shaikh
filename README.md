@@ -11,9 +11,7 @@
 
 </div>
 
----
-
-## Who is this?
+<img src="assets/h-about.svg" alt="Who is this?" width="100%">
 
 I teach machines to read cancer scans, and then I check whether they are telling the truth.
 
@@ -21,33 +19,21 @@ I am a data scientist in the **Quantitative Imaging Research and AI Lab ([QIRAIL
 
 I built a radiomics signature that predicts head and neck cancer recurrence (AUC 0.82), a segmentation model that outlines tumours from CT alone, and the data pipelines behind a 2,000+ patient imaging study. Then I reproduced a published AI model with the authors' own code and showed that its headline numbers did not hold up. Building models and breaking them: both are the job.
 
-> [!IMPORTANT]
-> **I am actively looking for a PhD position** in medical imaging and AI for oncology: radiomics and outcome prediction, tumour segmentation, adaptive radiotherapy, uncertainty quantification, and toxicity or follow-up modelling. If your lab works on any of this, **[write to me](mailto:hasanshaikh3198@gmail.com)**.
+<a href="mailto:hasanshaikh3198@gmail.com"><img src="assets/phd.svg" alt="I am looking for a PhD position in medical imaging and AI for oncology" width="100%"></a>
 
----
+<img src="assets/h-numbers.svg" alt="By the numbers" width="100%">
 
-## By the numbers
+<img src="assets/stats.svg" alt="2,000+ patients, AUC 0.82, Dice 0.65, 10 features kept from 1,000+, 304+ CHAVI cases" width="100%">
 
-| | |
-|---|---|
-| **2,000+** | head and neck cancer patients in the prospective imaging study whose data pipeline I built (DBT/Wellcome Trust India Alliance) |
-| **AUC 0.82** | for a 10-feature signature predicting locoregional recurrence in 327 patients (95% CI 0.62 to 0.95) |
-| **Dice 0.65** | for 3D nnU-Net tumour outlining from CT alone, on 167 cases from two institutions |
-| **1,000+ → 10** | radiomic features searched by 5 metaheuristic algorithms, narrowed to 2 clinical and 8 radiomic |
-| **0.22** | the largest AUC gap I found when reproducing a published CNN study that reported 95% checklist compliance |
-| **304+** | de-identified cases contributed to CHAVI, India's first national oncology imaging biobank |
-| **91.2%** | breast cancer survival accuracy of my multimodal deep-learning thesis model on METABRIC |
-| **ESTRO 2026** | poster highlight, Stockholm |
+Also: **0.22** is the largest AUC gap I found reproducing a published CNN study that reported 95% checklist compliance. **91.2%** is the breast cancer survival accuracy of my multimodal thesis model on METABRIC. **ESTRO 2026** (Stockholm) selected my work as a poster highlight.
 
-## How my work runs
+<img src="assets/h-how.svg" alt="How my work runs" width="100%">
 
 <img src="assets/pipeline.svg" alt="Five steps: scan, outline, measure, select, predict" width="100%">
 
 A planning CT goes in. A 3D nnU-Net outlines the tumour. PyRadiomics turns the outline into more than 1,000 numbers about shape, brightness and texture. Metaheuristic search keeps the few that are stable and useful. A model then estimates recurrence risk *before treatment*, with SHAP showing a clinician why.
 
----
-
-## What I work on
+<img src="assets/h-focus.svg" alt="What I work on" width="100%">
 
 - **Radiomics-based outcome prediction** for head and neck cancer
 - **Automated tumour segmentation** with 3D CNNs and nnU-Net
@@ -57,7 +43,7 @@ A planning CT goes in. A 3D nnU-Net outlines the tumour. PyRadiomics turns the o
 - **Multimodal deep learning** across imaging, clinical and genomic data
 - **DICOM/PACS engineering** and clinical data pipelines (Orthanc, XNAT, AWS S3)
 
-## Selected work
+<img src="assets/h-selected.svg" alt="Selected work" width="100%">
 
 <details open>
 <summary><b>Radiomics risk stratification for head and neck cancer</b> · ESTRO 2026 poster highlight</summary>
@@ -91,9 +77,7 @@ Three gated-attention CNNs (clinical, copy number, gene expression) fused by a s
 
 More detail on the **[portfolio](https://hash123shaikh.github.io/projects/)**.
 
----
-
-## Publications
+<img src="assets/h-pubs.svg" alt="Publications" width="100%">
 
 | # | Work | Status |
 |---|---|---|
@@ -106,7 +90,7 @@ More detail on the **[portfolio](https://hash123shaikh.github.io/projects/)**.
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=9jjwZ8cAAAAJ) and [ORCID](https://orcid.org/0009-0009-3806-613X).
 
-## Talks and posters
+<img src="assets/h-talks.svg" alt="Talks and posters" width="100%">
 
 1. **Poster**, 14th Research Day, CMC Vellore, October 2024: *Can CT radiomics predict recurrence in head and neck cancer? Early results from a prospective imaging trial.*
 2. **Oral, third prize**, 2nd National Symposium on Health Data and AI, CMC Vellore, March 2025: *Automated segmentation of head and neck cancer from CT images using 3D nnU-Net.*
@@ -114,24 +98,25 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=9jjwZ8cA
 4. **Paper**, AIHC 2025, NIT Calicut, December 2025: *Metaheuristic-driven radiomics for recurrence prediction.*
 5. **Poster highlight**, ESTRO 2026, Stockholm, Sweden.
 
-## Building the community
+<img src="assets/h-community.svg" alt="Building the community" width="100%">
 
 - **Workshop on Radiomics and Auto Segmentation**: I organised all three editions at CMC Vellore (14 to 15 November 2025, 27 to 28 March 2026, 18 to 19 September 2026), hands-on training for clinicians, medical physicists and researchers. [Certificate](https://drive.google.com/file/d/1Ucz1SRs9rlKJfk40z3huo22ITtUeCwLx/view?usp=drive_link) for the first edition.
 - **Head and Neck Cancer Survivorship Program**: organised at CMC Vellore, 12 to 13 September 2025.
 - **2nd Annual Winter Symposium on Health Data and AI**: organising team, March 2025.
 
-## The path
+<img src="assets/h-path.svg" alt="The path" width="100%">
 
-| | |
-|---|---|
+<img src="assets/path.svg" alt="Timeline of education and work" width="100%">
+
+B.Tech CGPA 8.04/10 (honors, top 1% of 128 students); M.Tech CGPA 8.80/10. At STARlab Capital I worked on volatility-based options strategies and open-source backtesting.
+
+---|---|
 | **2024 to now** | Data Scientist, QIRAIL, Dept. of Radiation Oncology, CMC Vellore |
 | **2023 to 2024** | Research Analyst, STARlab Capital, Lucknow: volatility-based options strategies and open-source backtesting |
 | **2021 to 2023** | M.Tech, Computer Science and Engineering, Aligarh Muslim University (CGPA 8.80/10) |
 | **2017 to 2021** | B.Tech, Computer Science and Engineering, AKTU Lucknow (CGPA 8.04/10), honors degree, top 1% of 128 students |
 
----
-
-## Toolbox
+<img src="assets/h-tools.svg" alt="Toolbox" width="100%">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyRadiomics](https://img.shields.io/badge/PyRadiomics-FF6F00?style=flat-square&logo=python&logoColor=white)
@@ -149,21 +134,15 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=9jjwZ8cA
 **Methods:** radiomics · metaheuristic optimisation · graph neural networks  
 **Infra:** Docker · GitHub · PostgreSQL · AWS S3 · Bash
 
----
-
-## What I believe
+<img src="assets/h-believe.svg" alt="What I believe" width="100%">
 
 - AI will eventually automate radiation oncology end to end: delivery, planning, auto-segmentation, adaptive radiotherapy and a paperless, AI-driven medical record. We are close.
 - The biggest impact of medical AI will not be in well-resourced hospitals. It will be where expert clinicians are scarce.
 
-## Let's talk
+<img src="assets/h-talk.svg" alt="Let's talk" width="100%">
 
 I like talking with researchers, clinicians, engineers and anyone curious about AI in healthcare. Research, PhD opportunities, collaborations: all welcome.
 
 📍 Vellore, Tamil Nadu, India · ✉️ [hasanshaikh3198@gmail.com](mailto:hasanshaikh3198@gmail.com) · 🌐 [hash123shaikh.github.io](https://hash123shaikh.github.io/)
 
-<div align="center">
-
-*Making radiotherapy smarter, one pipeline at a time.*
-
-</div>
+<img src="assets/footer.svg" alt="Making radiotherapy smarter, one pipeline at a time." width="100%">
