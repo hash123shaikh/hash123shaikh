@@ -1,136 +1,169 @@
-# Hasan Shaikh - Medical Imaging & AI for Oncology Researcher
-🎓 M.Tech in Computer Engineering | Aligarh Muslim University, India (CGPA: 8.80/10)  
-🏥 Clinical Data Scientist @ QIRAIL Lab, CMC Vellore  
-🧠 Radiomics • Auto-Segmentation • Adaptive Radiotherapy • Cancer AI • Uncertainty Quantification
+<div align="center">
 
----
+<a href="https://hash123shaikh.github.io/"><img src="assets/banner.svg" alt="Hasan Shaikh. I build AI that can tell, before treatment, how a head and neck cancer will behave." width="100%"></a>
 
-## 👋 About Me
-
-I am a clinical data scientist and medical imaging researcher working at the **Quantitative Imaging Research and Artificial Intelligence Lab ([QIRAIL](https://qirail.cmcvellore.edu.in/))**, Department of Radiation Oncology, Christian Medical College, Vellore, India, one of India's leading cancer centers.
-
-My work focuses on building AI pipelines that help oncologists make smarter, faster, and more personalized treatment decisions for head and neck cancer patients.
-
-My research primarily focuses on:
-- Radiomics-Based Cancer Outcome Prediction
-- Automated Tumor Segmentation (3D CNNs, nnU-Net)
-- Adaptive Radiotherapy & Treatment Planning Automation
-- Uncertainty Quantification in Clinical AI
-- DICOM/PACS Engineering & Clinical Data Pipelines
-- Multimodal Deep Learning for Oncology
-
-I have authored and co-authored multiple papers, including a **Poster Highlight presented at the European Society for Radiotherapy and Oncology (ESTRO) 2026, Sweden**, a Springer LNEE conference paper, a medRxiv preprint, and an Elsevier book chapter. I also organize hands-on radiomics and auto-segmentation workshops for clinicians, Medical Physics, and researchers.
-
-I genuinely enjoy talking with people — researchers, clinicians, or anyone curious about AI in healthcare. Feel free to reach out anytime.
-
-> 🎯 **I am actively looking for PhD positions** in medical imaging, radiation oncology AI, uncertainty quantification, adaptive radiotherapy, and cancer research.
-
----
-
-## 🔬 Publications & Research
-
-### Under Submission
-- 📄 **Anatomy-Guided Skip-connection Recalibration for CT-based Head and Neck Tumor Auto-segmentation**  
-  Asjad Nabeel P, Hannah Mary Thomas T, **Hasan Shaikh**, Sathya A, Rajendra Benny Kuchipudi, Jino Wilson Victor, Simon P Pavamani, Balu Krishna Sasidharan, Jeny Rajan  
-  *International Journal of Biomedical Imaging, 2026*
-
-- 📄 **Can reproducibility be achieved? External validation of 'Reproducible' image-based prognostic models for head and neck cancer**  
-  **Hasan Shaikh**, Sathya A, Praveenraj C, Balu Krishna S, Aparna Irodi, Rajendra Benny Kuchipudi, Jino Wilson Victor, Manu Mathew, Rajesh Isiah, Simon Pavamani, Joy Mammen, Hannah Mary Thomas T  
-  *Scientific Reports, Nature Portfolio, 2026*
-
-### Conference
-- 📄 **Development and validation of a prospective radiomics-clinical signature for locoregional recurrence in patients with locally advanced head and neck cancer**  
-  Balu Krishna S, Amal Joseph Varghese, **Hasan Shaikh** et al.  
-  *European Society for Radiotherapy and Oncology (ESTRO), Stockholm, Sweden, 2026* — **✅ Accepted (Abstract, Poster)**
-
-- 📄 **Metaheuristic-Driven Machine Learning Pipelines for Radiomics-Based Prediction of Locoregional Recurrence in Head and Neck Cancer**  
-  **Hasan Shaikh**, Balu Krishna S, Amal Joseph Varghese et al.  
-  *Proceedings of the International Conference on Artificial Intelligence for Healthcare (AIHC), Lecture Notes in Electrical Engineering, Springer Nature, 2025* — **✅ Accepted**
-
-### Preprints
-- 📄 **[Automated Segmentation of Head and Neck Cancer from CT Images Using 3D Convolutional Neural Networks](https://doi.org/10.64898/2026.03.12.26347996)**  
-  Piyus Prabhanjans, Asjad Nabeel P, Aparna V K, Hannah Mary Thomas T, Balu Krishna Sasidharan, **Hasan Shaikh**, Amal Joseph Varghese, Rajendra Benny Kuchipudi, Simon Pavamani, Jeny Rajan  
-  *medRxiv, 2026*
-
-### Book Chapters
-- 📄 **[Cancer Survival Prediction Using Artificial Intelligence: Current Status and Future Prospects](https://doi.org/10.1016/B978-0-443-24028-7.00016-7)**  
-  **Hasan Shaikh** and Rashid Ali  
-  *Data Science in the Medical Field, Academic Press, Elsevier, 2024*
-
-### Poster Presentations
-- 🪧 **"Before We Treat, Can We Tell? A Locoregional Recurrence Signature in Head & Neck"**  
-  **Hasan Shaikh**, Amal Joseph Varghese, Balu Krishna S et al.  
-  *15th Annual Research Day, Christian Medical College, Vellore, India, 2025*
-  
-- 🪧 **"Can CT Radiomics Predict Recurrence in Head and Neck Cancer? Early Results from a Prospective Imaging Trial"**  
-  **Hasan Shaikh**, Amal Joseph Varghese, Hannah Mary Thomas T et al.  
-  *14th Annual Research Day, Christian Medical College, Vellore, India, 2024*
-
----
-
-## 🏫 Workshops Organized
- 
-- 🛠️ **2nd Workshop on Radiomics and Auto-Segmentation - 2nd edition** *(March 2026)*  
-  Department of Radiation Oncology & QIRAIL Lab, Christian Medical College, Vellore, India, hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools.
-
-- 🛠️ **1st Workshop on Radiomics and Auto-Segmentation - 1st edition** *(November 14-15, 2025)*  
-  Department of Radiation Oncology & QIRAIL Lab, Christian Medical College, Vellore, India, hands-on training for clinicians, Medical Physics, and researchers on radiomics pipelines and auto-segmentation tools. [Certificate](https://drive.google.com/file/d/1Ucz1SRs9rlKJfk40z3huo22ITtUeCwLx/view?usp=drive_link)
-
----
-
-## 🎯 Looking for a PhD Position
-
-I'm actively applying for PhD positions. If your lab works on any of the following, I'd love to connect:
-
-- 🧠 Medical image analysis & segmentation
-- 🎯 Radiomics & cancer outcome prediction
-- 📐 Uncertainty quantification in clinical AI
-- ⚙️ Adaptive radiotherapy & treatment planning automation
-- 🔁 Auto-segmentation for radiation oncology workflows
-- 🧬 Multimodal learning for cancer research
-
----
-
-## 🛠️ Tools I Work With
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyRadiomics](https://img.shields.io/badge/PyRadiomics-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![nnUNet](https://img.shields.io/badge/nnUNet-DeepLearning-blueviolet?style=for-the-badge)
-![MedSAM](https://img.shields.io/badge/MedSAM-Segmentation-9cf?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Medical Imaging:** 3D Slicer · ITK-SNAP · Orthanc PACS · XNAT · DICOM · NIfTI  
-**ML/DL:** TensorFlow · Keras · scikit-learn · nnU-Net  
-**Infra:** Docker · GitHub · PostgreSQL · Bash
-
----
-
-## 🙋 A Little More About Me
-
-- 💬 I love talking with people — researchers, clinicians, engineers, or anyone curious about AI in healthcare. Just message me.
-- 🤖 I believe AI will eventually automate radiation oncology end-to-end — radiation therapy delivery, treatment planning, auto-segmentation, adaptive radiotherapy, and a fully paperless AI-driven EMR. We're close.
-- 🌍 The biggest impact of medical AI won't be in well-resourced hospitals — it'll be in under-resourced settings where expert clinicians are scarce.
-- 📍 Based in Vellore, Tamil Nadu, India
-
----
-
-## 📫 Connect with Me
-
-I'm always open to conversations about research, PhD opportunities, or collaborations.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasann-shaikh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hash123shaikh.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hash123shaikh.github.io-F0787F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hash123shaikh.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=9jjwZ8cAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3806-613X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasann-shaikh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanshaikh3198@gmail.com)
+[![CV](https://img.shields.io/badge/CV-PDF-14315A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://hash123shaikh.github.io/files/CV_Hasan_Shaikh.pdf)
+
+</div>
 
 ---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hash123shaikh&theme=tokyonight)
+## Who is this?
+
+I teach machines to read cancer scans, and then I check whether they are telling the truth.
+
+I am a data scientist in the **Quantitative Imaging Research and AI Lab ([QIRAIL](https://qirail.cmcvellore.edu.in/))**, Department of Radiation Oncology, **Christian Medical College, Vellore**, one of India's leading cancer centres. My work asks one question over and over: **before we treat, can we tell who is likely to relapse?**
+
+I built a radiomics signature that predicts head and neck cancer recurrence (AUC 0.82), a segmentation model that outlines tumours from CT alone, and the data pipelines behind a 2,000+ patient imaging study. Then I reproduced a published AI model with the authors' own code and showed that its headline numbers did not hold up. Building models and breaking them: both are the job.
+
+> [!IMPORTANT]
+> **I am actively looking for a PhD position** in medical imaging and AI for oncology: radiomics and outcome prediction, tumour segmentation, adaptive radiotherapy, uncertainty quantification, and toxicity or follow-up modelling. If your lab works on any of this, **[write to me](mailto:hasanshaikh3198@gmail.com)**.
 
 ---
 
-> #### 💡 *"Making radiotherapy smarter, one pipeline at a time."*
+## By the numbers
+
+| | |
+|---|---|
+| **2,000+** | head and neck cancer patients in the prospective imaging study whose data pipeline I built (DBT/Wellcome Trust India Alliance) |
+| **AUC 0.82** | for a 10-feature signature predicting locoregional recurrence in 327 patients (95% CI 0.62 to 0.95) |
+| **Dice 0.65** | for 3D nnU-Net tumour outlining from CT alone, on 167 cases from two institutions |
+| **1,000+ → 10** | radiomic features searched by 5 metaheuristic algorithms, narrowed to 2 clinical and 8 radiomic |
+| **0.22** | the largest AUC gap I found when reproducing a published CNN study that reported 95% checklist compliance |
+| **304+** | de-identified cases contributed to CHAVI, India's first national oncology imaging biobank |
+| **91.2%** | breast cancer survival accuracy of my multimodal deep-learning thesis model on METABRIC |
+| **ESTRO 2026** | poster highlight, Stockholm |
+
+## How my work runs
+
+<img src="assets/pipeline.svg" alt="Five steps: scan, outline, measure, select, predict" width="100%">
+
+A planning CT goes in. A 3D nnU-Net outlines the tumour. PyRadiomics turns the outline into more than 1,000 numbers about shape, brightness and texture. Metaheuristic search keeps the few that are stable and useful. A model then estimates recurrence risk *before treatment*, with SHAP showing a clinician why.
+
+---
+
+## What I work on
+
+- **Radiomics-based outcome prediction** for head and neck cancer
+- **Automated tumour segmentation** with 3D CNNs and nnU-Net
+- **Adaptive radiotherapy** and treatment-planning automation
+- **Uncertainty quantification** in clinical AI
+- **Reproducibility and trustworthy AI**: CLAIM and TRIPOD+AI assessments
+- **Multimodal deep learning** across imaging, clinical and genomic data
+- **DICOM/PACS engineering** and clinical data pipelines (Orthanc, XNAT, AWS S3)
+
+## Selected work
+
+<details open>
+<summary><b>Radiomics risk stratification for head and neck cancer</b> · ESTRO 2026 poster highlight</summary>
+
+A 10-feature signature (2 clinical, 8 radiomic) for locoregional recurrence. Five metaheuristic algorithms, including a genetic algorithm, searched 1,000+ candidate features for the most stable subset. AUC 0.82 in 327 patients treated with primary radiation, explained per prediction with SHAP.
+</details>
+
+<details>
+<summary><b>Can reproducibility be achieved?</b> · Under submission, Scientific Reports</summary>
+
+I re-ran a published CNN prognosis study from the authors' code, data and Docker container. AUCs differed by −0.22 to +0.10, and fixing the code took almost seven weeks. External validation on a separate cohort (n=102) gave an AUC of 0.49 to 0.59, close to chance. The paper had reported 95% CLAIM compliance, which shows that a high checklist score does not guarantee a trustworthy model.
+</details>
+
+<details>
+<summary><b>Tumour segmentation with 3D CNNs</b> · with NIT Karnataka, Surathkal</summary>
+
+167 CT cases (137 MAASTRO, 30 CMC Vellore) and a 3D nnU-Net for gross tumour volume: Dice 0.62 on MAASTRO, 0.63 on CMC and 0.65 combined. Co-author of AGSR-Net, which lifts Dice from 0.70 to 0.73 and cuts HD95 from 33.92 to 21.22 mm across 896 patients.
+</details>
+
+<details>
+<summary><b>A 2,000-patient imaging pipeline and India's first oncology biobank</b></summary>
+
+An end-to-end DICOM retrieval pipeline on Orthanc PACS, automated segmentation and PyRadiomics extraction across the cohort, and AWS S3 backups with automatic recovery for a five-year multisite radiotherapy study. Separately, 304+ de-identified cases anonymised with XNAT and Orthanc for CHAVI, in collaboration with Tata Memorial Centre and IIT Kharagpur.
+</details>
+
+<details>
+<summary><b>MGAttCNNMD: multimodal survival prediction</b> · M.Tech thesis, Aligarh Muslim University</summary>
+
+Three gated-attention CNNs (clinical, copy number, gene expression) fused by a stacked random forest. 91.2% accuracy on METABRIC, ahead of every single-modality baseline. Advisor: Prof. Rashid Ali.
+</details>
+
+More detail on the **[portfolio](https://hash123shaikh.github.io/projects/)**.
+
+---
+
+## Publications
+
+| # | Work | Status |
+|---|---|---|
+| 1 | Anatomy-guided skip-connection recalibration for CT-based head and neck tumor auto-segmentation. *International Journal of Biomedical Imaging* | Under submission |
+| 2 | Can reproducibility be achieved? External validation of "reproducible" image-based prognostic models for head and neck cancer. *Scientific Reports* | Under submission |
+| 3 | Development and validation of a prospective radiomics-clinical signature for locoregional recurrence in locally advanced head and neck cancer. *ESTRO 2026, Stockholm* | **Poster highlight** ([abstract](https://hash123shaikh.github.io/files/ESTRO_Abstract_2026%20-%20Development%20of%20radiomics-clinical%20signature%20for%20LRR.pdf)) |
+| 4 | Metaheuristic-driven machine learning pipelines for radiomics-based prediction of locoregional recurrence in head and neck cancer. *AIHC, Springer LNEE, 2025* | Accepted ([PDF](https://hash123shaikh.github.io/files/HNC_AIHC2025_NIT_Calicut%20-%20Metaheuristic_Radiomics.pdf)) |
+| 5 | Automated segmentation of head and neck cancer from CT images using 3D convolutional neural networks. *medRxiv, 2026* | [Preprint](https://doi.org/10.64898/2026.03.12.26347996) |
+| 6 | Cancer survival prediction using artificial intelligence: current status and future prospects. *Data Science in the Medical Field, Elsevier, 2024* | [Book chapter](https://doi.org/10.1016/B978-0-443-24028-7.00016-7) |
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=9jjwZ8cAAAAJ) and [ORCID](https://orcid.org/0009-0009-3806-613X).
+
+## Talks and posters
+
+1. **Poster**, 14th Research Day, CMC Vellore, October 2024: *Can CT radiomics predict recurrence in head and neck cancer? Early results from a prospective imaging trial.*
+2. **Oral, third prize**, 2nd National Symposium on Health Data and AI, CMC Vellore, March 2025: *Automated segmentation of head and neck cancer from CT images using 3D nnU-Net.*
+3. **Talk**, 15th Research Day, CMC Vellore, October 2025: *Before we treat, can we tell? A locoregional recurrence signature in head and neck cancer.* ([slides](https://hash123shaikh.github.io/files/15th%20Research%20Day%20Talk%20%40%20CMCV%20-%20Hasan%20Shaikh.pdf))
+4. **Paper**, AIHC 2025, NIT Calicut, December 2025: *Metaheuristic-driven radiomics for recurrence prediction.*
+5. **Poster highlight**, ESTRO 2026, Stockholm, Sweden.
+
+## Building the community
+
+- **Workshop on Radiomics and Auto Segmentation**: I organised all three editions at CMC Vellore (14 to 15 November 2025, 27 to 28 March 2026, 18 to 19 September 2026), hands-on training for clinicians, medical physicists and researchers. [Certificate](https://drive.google.com/file/d/1Ucz1SRs9rlKJfk40z3huo22ITtUeCwLx/view?usp=drive_link) for the first edition.
+- **Head and Neck Cancer Survivorship Program**: organised at CMC Vellore, 12 to 13 September 2025.
+- **2nd Annual Winter Symposium on Health Data and AI**: organising team, March 2025.
+
+## The path
+
+| | |
+|---|---|
+| **2024 to now** | Data Scientist, QIRAIL, Dept. of Radiation Oncology, CMC Vellore |
+| **2023 to 2024** | Research Analyst, STARlab Capital, Lucknow: volatility-based options strategies and open-source backtesting |
+| **2021 to 2023** | M.Tech, Computer Science and Engineering, Aligarh Muslim University (CGPA 8.80/10) |
+| **2017 to 2021** | B.Tech, Computer Science and Engineering, AKTU Lucknow (CGPA 8.04/10), honors degree, top 1% of 128 students |
+
+---
+
+## Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyRadiomics](https://img.shields.io/badge/PyRadiomics-FF6F00?style=flat-square&logo=python&logoColor=white)
+![nnU-Net](https://img.shields.io/badge/nnU--Net-blueviolet?style=flat-square)
+![MedSAM](https://img.shields.io/badge/MedSAM-9cf?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Imaging:** 3D Slicer · ITK-SNAP · Orthanc PACS · XNAT · DICOM · NIfTI  
+**ML:** TensorFlow · Keras · scikit-learn · PyRadiomics · nnU-Net · SHAP  
+**Methods:** radiomics · metaheuristic optimisation · graph neural networks  
+**Infra:** Docker · GitHub · PostgreSQL · AWS S3 · Bash
+
+---
+
+## What I believe
+
+- AI will eventually automate radiation oncology end to end: delivery, planning, auto-segmentation, adaptive radiotherapy and a paperless, AI-driven medical record. We are close.
+- The biggest impact of medical AI will not be in well-resourced hospitals. It will be where expert clinicians are scarce.
+
+## Let's talk
+
+I like talking with researchers, clinicians, engineers and anyone curious about AI in healthcare. Research, PhD opportunities, collaborations: all welcome.
+
+📍 Vellore, Tamil Nadu, India · ✉️ [hasanshaikh3198@gmail.com](mailto:hasanshaikh3198@gmail.com) · 🌐 [hash123shaikh.github.io](https://hash123shaikh.github.io/)
+
+<div align="center">
+
+*Making radiotherapy smarter, one pipeline at a time.*
+
+</div>
